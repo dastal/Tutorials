@@ -10,4 +10,4 @@ I used this [video](https://www.youtube.com/watch?v=OK_JCtrrv-c) to learn the ba
 ## Course Content ##
 | Description File | PHP File | Section Description |
 | ----------- | ----------- | ----------- |
-| [Introcution](https://github.com/dastal/Tutorials/tree/main/php_Course/documents/Introduction.md) | [helloWorld.php](https://github.com/dastal/Tutorials/tree/main/php_Course/www/helloWorld.php) | Setup and Introduction (Hello World) |
+| [Introdcution](https://github.com/dastal/Tutorials/tree/main/php_Course/documents/introduction.md) | [helloWorld.php](https://github.com/dastal/Tutorials/tree/main/php_Course/www/helloWorld.php) | Setup and Introduction (Hello World) |
