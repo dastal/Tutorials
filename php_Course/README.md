@@ -11,3 +11,5 @@ I used this [video](https://www.youtube.com/watch?v=OK_JCtrrv-c) to learn the ba
 | Description File | PHP File | Section Description |
 | ----------- | ----------- | ----------- |
 | [Introdcution](https://github.com/dastal/Tutorials/tree/main/php_Course/documents/introduction.md) | [helloWorld.php](https://github.com/dastal/Tutorials/tree/main/php_Course/www/helloWorld.php) | Setup and Introduction (Hello World) |
+| [Writing HTML](https://github.com/dastal/Tutorials/tree/main/php_Course/documents/writingHTML.md) | [writingHTML.php](https://github.com/dastal/Tutorials/tree/main/php_Course/www/writingHTML.php) | Writing HTML code in PHP |
+| [Variables](https://github.com/dastal/Tutorials/tree/main/php_Course/documents/variables.md) | [variables.php](https://github.com/dastal/Tutorials/tree/main/php_Course/www/variables.php) | Using PHP variables |
