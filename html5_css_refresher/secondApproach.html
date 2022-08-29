@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<head>
+    <title>My Page!</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        ul {
+            list-style: none;
+            padding: 0px;
+        }
+        li {
+            display: inline-block;
+            background-color: gray;
+            border-radius: 3px;
+            padding: 2px;
+            margin-left: 20px;
+        }
+        li:active {
+            background-color: red;
+        }
+        li:first-child {
+            background:red;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        a:active {
+            text-decoration: none;
+        }
+        section {
+            display: flex;
+        }
+        .feature-box {
+            display: flex;
+        }
+        .feature-box div{
+            width: 100%;
+            margin: 1px;
+        }
+        .feature-box.sales div{
+            background: gray;      
+        }
+        .feature-box.closeouts div{
+            background: red;
+        }
+    </style>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a> </li>
+                <li><a href="pages/locations.html">Locations</a></li>
+                <li><a href="pages/contact.html">Contact</a></li>
+                <li><a href="pages/directions.html">Directions</a></li>
+            </ul>
+        </nav>
+        <h1>Home</h1>
+    </header>
+    <section class="feature-box sales">
+        <div>Section a</div>
+        <div>Section b</div>
+        <div>Section c</div>
+    </section>
+    <section class="feature-box closeouts">
+        <div>Section d</div>
+        <div>Section e</div>
+    </section>
+    <footer>footer</footer>
+</body>
