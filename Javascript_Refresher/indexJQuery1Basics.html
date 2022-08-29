@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="jquery-3.5.1.js"></script>
+    <script>
+        // $: value that is given to the jquery library when it loads up
+        $(function(){
+            
+            $('#panel1').hide(300).show(1000);
+            $('#panel1').slideUp(1000).delay(1000).slideDown(1000);
+            $('#panel1').fadeToggle(1000).slideToggle(1000);
+            $('#panel1').css({
+                color:'red', 
+                'fontWeight':'bold',
+                display: none,
+            });
+            $('#panel2').css({
+                opacity: '0.5'
+            });
+        });
+    </script>
+</body>
+</html>
