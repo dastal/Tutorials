@@ -60,7 +60,7 @@ Replace a certain sequence that is contained in a string ###
 echo str_replace("Hello", "Bye", $phrase);
 ```
 
-### Substring ###
+### `substr` ###
 
 Get a certain sequence of a string using the index. The following sequence returns a the substring starting at the 6th chracter until the end
 
