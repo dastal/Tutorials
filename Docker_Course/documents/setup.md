@@ -46,4 +46,14 @@ To run the Docker Image, type `docker run -p 3000:3000 -d --name node-app node-a
 
 In the image above you can see the explanation why there is the need to write `-p 3000:3000`. When either I want to access to the node container or another machine within the same network, they access to the host machine (the machine where the application is running on) by using the indicated port (here port 3000). The host machine then accesses to the node container by using the indicated port (in the application, here port 3000). The ports can be different than 3000.
 
+To remove the Docker Container from the container list, type `docker rm node-app -f` into the terminal.
+
 ## .dockerignore ##
+Like in a .gitignore file, type the names of the directories and files that you do not want to add to the build to increase the performance of the build. To start, the following files are enough to add to the .dockerignore file:
+
+```
+node_modules
+Dockerfile
+.dockerignore
+.gitignore
+```
