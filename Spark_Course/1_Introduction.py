@@ -8,5 +8,9 @@ pd.read_csv('data/test1.csv')
 # Starting Spark Session
 spark = SparkSession.builder.appName('Practise').getOrCreate()
 
-# Read Dataset
-df_pyspark = spark.read.csv('data/test1.csv')
+# Read Dataset (as pyspark dataframe)
+df_pyspark = spark.read.option('header', 'true').csv('data/test1.csv')
+
+df_pyspark.show()
+
+df_pyspark.printSchema()
