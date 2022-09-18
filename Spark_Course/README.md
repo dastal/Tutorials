@@ -41,9 +41,14 @@ Simple linear regression model
 Find more information about [Databricks](https://www.databricks.com/try-databricks?itm_data=Homepage-HeroCTA-Trial)
 
 - Sing up to the free [Databricks](https://www.databricks.com/try-databricks?itm_data=Homepage-HeroCTA-Trial) and select "Get Started with the community edition"
-- After signing in, on the left hand side choose "Create" -> "Cluster"
+- After signing in, on the left-hand side choose "Create" -> "Cluster"
 - Give a name to the new cluster and choose the correct Spark version (3.3.0 in this case)
 - Click "Create Cluster"
 - Upload a dataset and run it on a Notebook
 - Attach the notebook to the cluster
-- Now you're ready write and execute code
+- Now you are ready write and execute code
+
+## Implementing Linear Regression using Databricks in Single Clusters ##
+- Repetition of how to create a Cluster and attach a Notebook to it
+- Handling Categorical Features
+- Apply Linear Regression
