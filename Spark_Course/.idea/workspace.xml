@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1265067a-d2a3-4f35-afdd-a7bb7b5eab8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8_Implementing_Linear_Regression_using_Databricks_in_Single_Clusters.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1265067a-d2a3-4f35-afdd-a7bb7b5eab8b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +193,7 @@
       <workItem from="1663320349829" duration="3845000" />
       <workItem from="1663409186928" duration="2341000" />
       <workItem from="1663411558974" duration="7445000" />
-      <workItem from="1663506162019" duration="5153000" />
+      <workItem from="1663506162019" duration="5357000" />
     </task>
     <servers />
   </component>
