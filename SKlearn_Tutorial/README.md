@@ -1,4 +1,4 @@
-# SKlearn_Tutorial
+# SKlearn Tutorial
  Tutorial I completed to get used to scikit learn. I used this [Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU). For further information on scikit-learn, use this [Link](https://scikit-learn.org/stable/).
  
  ## Setup
