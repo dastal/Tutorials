@@ -1,5 +1,4 @@
 # ASP .NET Core Tutorial
-ASP.NET Core Tutorial
 
 A tutorial I completed in an internship to get used to ASP.NET Core using razor pages. I used the following:
 - Tutorial: https://www.youtube.com/watch?v=C5cnZ-gZy2I
