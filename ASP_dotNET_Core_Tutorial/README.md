@@ -1,4 +1,4 @@
-# ASP_dotNET_Core_Tutorial
+# ASP .NET Core Tutorial
 ASP.NET Core Tutorial
 
 A tutorial I completed in an internship to get used to ASP.NET Core using razor pages. I used the following:
