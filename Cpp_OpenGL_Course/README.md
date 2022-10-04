@@ -1,4 +1,4 @@
-# Cpp_OpenGL_Course
+# C++ OpenGL Course
  C++ OpenGL Tutorial I completed to get used to OpenGL. Therefore I used this [Tuturial](https://www.youtube.com/watch?v=yRYHly3bl2Q&list=PLStQc0GqppuWBDuNWnkQ8rzmyx35AINyt).
  
  ## General Infromation about OpenGL
