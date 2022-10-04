@@ -16,4 +16,4 @@
 | [Spark](https://github.com/dastal/Tutorials/tree/main/Spark_Course) | Course that shows how to use Spark in comination with ML |
 | [Websocket](https://github.com/dastal/Tutorials/tree/main/Websocket_Tutorial) | Short Tutorial on how to use Werbsockets |
 | [HTML & CSS](https://github.com/dastal/Tutorials/tree/main/html5_css_refresher) | Course that I completed to refresh my HTML and CSS skills |
-| [PHP](https://github.com/dastal/Tutorials/tree/main/html5_css_refresher) | Course that summarizes the most important properties of PHP |
+| [PHP](https://github.com/dastal/Tutorials/tree/main/php_Course) | Course that summarizes the most important properties of PHP |
