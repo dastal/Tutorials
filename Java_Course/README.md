@@ -1,4 +1,4 @@
-# Java_Course
+# Java Course
 Introductory Java Course (Tutorial)
 
 Tutorial I completed to get used to Java programming language and to continue my overview over the most important programming languages. Therefore I used this [tutorial](https://www.youtube.com/watch?v=-QLskCQbLco&list=PLLAZ4kZ9dFpPpdR_9IQBUDLjYalvdrGGb).
