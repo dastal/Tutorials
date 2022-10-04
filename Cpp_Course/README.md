@@ -1,4 +1,4 @@
-# Cpp_Course
+# C++ Course
 Introductory C++ Course (Tutorial)
 
 
