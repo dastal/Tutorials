@@ -7,7 +7,7 @@
 | [Bash](https://github.com/dastal/Tutorials/tree/main/Bash_Scripting_Course) | Bash Scripting Course |
 | [C#](https://github.com/dastal/Tutorials/tree/main/Bash_Scripting_Course) | Course that summarizes the most important properties of C# |
 | [C++](https://github.com/dastal/Tutorials/tree/main/Cpp_Course) | Course that summarizes the most important properties of C++ |
-| [Open GL](https://github.com/dastal/Tutorials/tree/main/Cpp_OpenGL_Course) | C++ Open GL course to get used to open GL |
+| [OpenGL](https://github.com/dastal/Tutorials/tree/main/Cpp_OpenGL_Course) | C++ Open GL course to get used to open GL |
 | [Docker](https://github.com/dastal/Tutorials/tree/main/Docker_Course) | Course that shows how to properly build a project using Docker |
 | [Java](https://github.com/dastal/Tutorials/tree/main/Java_Course) | Course that summarizes the most important properties of Java |
 | [JavaScript](https://github.com/dastal/Tutorials/tree/main/Javascript_Refresher) | Course that I completed to refresh my JavaScript skills |
