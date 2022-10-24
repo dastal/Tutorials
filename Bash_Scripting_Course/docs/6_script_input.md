@@ -57,7 +57,3 @@ If we want to hand in a file, we have to enter the following command:
 ```
 
 This command takes the file, the bash script reads it line by line and after every line, the line is printed to the console.
-
-
-## Script Output ##
-
