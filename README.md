@@ -4,7 +4,7 @@ Following the list with the links and short descriptions of all the repositories
  
 | Link | Description |
 |:-----|:------------|
-| [ASP .NET Core](https://github.com/dastal/Tutorials/tree/main/ASP_dotNET_Core_Tutorial) | Basic ASP .NET Core Tutorial using razor pages |
+| [ASP.NET Core](https://github.com/dastal/Tutorials/tree/main/ASP_dotNET_Core_Tutorial) | Basic ASP .NET Core Tutorial using razor pages |
 | [Bash](https://github.com/dastal/Tutorials/tree/main/Bash_Scripting_Course) | Bash Scripting Course |
 | [C#](https://github.com/dastal/Tutorials/tree/main/Bash_Scripting_Course) | Course that summarizes the most important properties of C# |
 | [C++](https://github.com/dastal/Tutorials/tree/main/Cpp_Course) | Course that summarizes the most important properties of C++ |
