@@ -36,4 +36,6 @@ Following I listed up all the documents I created during the tutorial. Each sect
 | [Neural Networks](Docs/Neural_Networks.md) | Introduction to the functionality of Neural Networks |
 | [Underfitting and Overfitting](https://github.com/dastal/Tutorials/blob/main/SKlearn_Tutorial/Docs/Underfitting_and_Overfitting.md) | Getting to know the perfect fit, underfitting, and overfitting |
 | [Cost Function and Gradient Fucntion](https://github.com/dastal/Tutorials/blob/main/SKlearn_Tutorial/Docs/Cost_Function_ans_Gradient_Descent.md) | Learning the theory behind how Neural Networks minimize their Cost |
-| [Backpropagation]() |  |
+| [Backpropagation](https://github.com/dastal/Tutorials/blob/main/SKlearn_Tutorial/Docs/Backpropagation.md) | Learning about the concept of Backpropagation |
+| [CNN](https://github.com/dastal/Tutorials/blob/main/SKlearn_Tutorial/Docs/CNN.md) | Introducing the Nueral Network CNN |
+| [Practical Example](https://github.com/dastal/Tutorials/blob/main/SKlearn_Tutorial/Docs/Hand_Digit_Recognizer.md) | Practical Example using a Neural Network |
