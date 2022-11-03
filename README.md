@@ -1,5 +1,6 @@
 # Tutorials
- Repository for collecting all the Projects of Tutorials, Crash Courses, and Introductions. Following the list with the links and short descriptions of all the repositories:
+Repository for collecting all the Projects of Tutorials, Crash Courses, and Introductions I completed to learn new programming languages, technologies, etc. 
+Following the list with the links and short descriptions of all the repositories:
  
 | Link | Description |
 |:-----|:------------|
