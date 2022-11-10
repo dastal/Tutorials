@@ -1,0 +1,21 @@
+{
+  "name": "mongo_db_course",
+  "version": "1.0.0",
+  "description": "Course to get familiar with MongoDB. I used this [Tutorial]() to complete the course.",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "path": "^0.12.7"
+  }
+}
