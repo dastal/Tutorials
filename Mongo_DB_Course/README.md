@@ -3,6 +3,8 @@ Course to get familiar with MongoDB. I used this [Tutorial](https://www.youtube.
 
 ## Setup ##
 - IDE: [VS Code](https://code.visualstudio.com/download)
+- Download [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and install it
+- Go through the whole [installation procedure](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) of MongoDB
 - Open a new folder
 - Open a new terminal
 - Type `npm init -y`
