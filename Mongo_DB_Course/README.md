@@ -21,3 +21,4 @@ Following a table with the course content:
 | Lecture | Content |
 | :------ | :------ |
 | [Setting up Project](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Setup_Project.md) | Detailed setup of the project, especially connecting the database with the application |
+| [Get Todos](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Todo_Crud_App.md) | Inserting first objects into the database manually and access them via the applicatiom |
