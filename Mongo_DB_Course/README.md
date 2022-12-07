@@ -22,3 +22,6 @@ Following a table with the course content:
 | :------ | :------ |
 | [Setting up Project](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Setup_Project.md) | Detailed setup of the project, especially connecting the database with the application |
 | [Get Todos](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Todo_Crud_App.md) | Inserting first objects into the database manually and access them via the applicatiom |
+| [Server Side Update Portion](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Server_Side_Update_Portion.md) | Updating the already inserted objects in the DB on the server side |
+| [Server Side Create Portion](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Server_Side_Create_Portion.md) | Creating the already inserted objects in the DB on the server side |
+| [Server Side Delete Portion](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Server_Side_Delete_Portion.md) | Deleting the already inserted objects in the DB on the server side |
