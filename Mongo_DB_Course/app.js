@@ -42,6 +42,21 @@ app.put('/:id',(req,res)=>{
     });
 });
 
+// Create
+app.post('/',(req,res)=>{
+    // Document to be inserted
+    const userInput = req.body;
+        
+    db.getDB().collection(collection).insertOne(userInput,(err,result)=>{
+        if(err){
+            console.log(err);
+        }
+        else
+            res.json(result);
+    });   
+});
+
+// Connect
 db.connect((err)=>{
     if(err){
         console.log('unable to connect to database');
