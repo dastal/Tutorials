@@ -42,6 +42,19 @@ app.put('/:id',(req,res)=>{
     });
 });
 
+//delete
+app.delete('/:id',(req,res)=>{
+    // Primary Key of Todo Document
+    const todoID = req.params.id;
+    // Find Document By ID and delete document from record
+    db.getDB().collection(collection).findOneAndDelete({_id : db.getPrimaryKey(todoID)},(err,result)=>{
+        if(err)
+            console.log(err);
+        else
+            res.json(result);
+    });
+});
+
 // Create
 app.post('/',(req,res)=>{
     // Document to be inserted
