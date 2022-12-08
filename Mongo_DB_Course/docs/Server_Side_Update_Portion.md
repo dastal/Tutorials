@@ -23,7 +23,7 @@ app.put('/:id',(req,res)=>{
 });
 ```
 
-First we define the primary key of the document, the ID, and the user input. Then, we search the object in the DB by using the ID.
+First we define the URL, which is `/:id`, whereas the ID is the ID of the object to be updated. Then we define the primary key of the document, the ID, and the user input. Then, we search the object in the DB by using the ID.
 If the object is in the DB, update it by replacing the old document by the new one. If the object is not in the DB, send an error message.
 
 ## Using Postman ##
