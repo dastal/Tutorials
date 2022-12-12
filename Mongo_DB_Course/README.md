@@ -25,3 +25,6 @@ Following a table with the course content:
 | [Server Side Update Portion](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Server_Side_Update_Portion.md) | Updating the already inserted objects in the DB on the server side |
 | [Server Side Create Portion](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Server_Side_Create_Portion.md) | Creating the already inserted objects in the DB on the server side |
 | [Server Side Delete Portion](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Server_Side_Delete_Portion.md) | Deleting the already inserted objects in the DB on the server side |
+| [Index File](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Creating_Index_File.md) | Creating an index file that is used to show the content of the DB |
+| [Fetch GET Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Get_Request.md) | Fetching the GET request on the client side |
+
