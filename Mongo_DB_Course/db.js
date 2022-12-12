@@ -23,7 +23,6 @@ const connect = (cb) =>{
             }
         })
     }      
-
 }
 
 const getPrimaryKey = (_id)=>{
