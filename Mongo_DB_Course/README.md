@@ -28,4 +28,4 @@ Following a table with the course content:
 | [Index File](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Creating_Index_File.md) | Creating an index file that is used to show the content of the DB |
 | [Fetch GET Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Get_Request.md) | Fetching the GET request on the client side |
 | [Fetch POST Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Post_Request.md) | Fetching the POST request on the client side |
-
+| [Fetch DELETE Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Delete_Request.md) | Fetching the DELETE request on the client side |
