@@ -16,6 +16,6 @@ Following the list with the links and short descriptions of all the repositories
 | [OpenGL](https://github.com/dastal/Tutorials/tree/main/Cpp_OpenGL_Course) | C++ Open GL course to get used to open GL |
 | [PHP](https://github.com/dastal/Tutorials/tree/main/php_Course) | Course that summarizes the most important properties of PHP |
 | [Ruby](https://github.com/dastal/Tutorials/tree/main/Ruby_Course) | Course that summarizes the most important properties of Ruby |
-| [SKLearn](https://github.com/dastal/Tutorials/tree/main/SKlearn_Tutorial) | Introductory Course into Machin Learning using SKLearn |
+| [SKLearn](https://github.com/dastal/Tutorials/tree/main/SKlearn_Tutorial) | Introductory Course into Machine Learning using SKLearn |
 | [Spark](https://github.com/dastal/Tutorials/tree/main/Spark_Course) | Course that shows how to use Spark in comination with ML |
 | [Websocket](https://github.com/dastal/Tutorials/tree/main/Websocket_Tutorial) | Short Tutorial on how to use Werbsockets with node.js |
