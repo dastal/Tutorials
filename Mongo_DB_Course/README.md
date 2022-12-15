@@ -30,4 +30,4 @@ Following a table with the course content:
 | [Fetch POST Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Post_Request.md) | Fetching the POST request on the client side |
 | [Fetch DELETE Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Delete_Request.md) | Fetching the DELETE request on the client side |
 | [Fetch PUT Request](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Fetch_Put_Request.md) | Fetching the PUT request on the client side |
-
+| [User Input Validatiomn](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/User_Input_Validation.md) | Esuring that the data that is exchanged has the correct shape |
