@@ -37,3 +37,8 @@ Open a new terminal and type:
 ```
 node app
 ```
+
+## Final Product ##
+The final product looks as follows:
+
+![Final Product](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/docs/Images/final_product.png)
