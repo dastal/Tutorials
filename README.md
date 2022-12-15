@@ -12,7 +12,7 @@ Following the list with the links and short descriptions of all the repositories
 | [HTML & CSS](https://github.com/dastal/Tutorials/tree/main/html5_css_refresher) | Course that I completed to refresh my HTML and CSS skills |
 | [Java](https://github.com/dastal/Tutorials/tree/main/Java_Course) | Course that summarizes the most important properties of Java |
 | [JavaScript](https://github.com/dastal/Tutorials/tree/main/Javascript_Refresher) | Course that I completed to refresh my JavaScript skills |
-| [MongoDB](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course/README.md) | Course to get used top MongoDB |
+| [MongoDB](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course) | Course to get used top MongoDB |
 | [OpenGL](https://github.com/dastal/Tutorials/tree/main/Cpp_OpenGL_Course) | C++ Open GL course to get used to open GL |
 | [PHP](https://github.com/dastal/Tutorials/tree/main/php_Course) | Course that summarizes the most important properties of PHP |
 | [Ruby](https://github.com/dastal/Tutorials/tree/main/Ruby_Course) | Course that summarizes the most important properties of Ruby |
