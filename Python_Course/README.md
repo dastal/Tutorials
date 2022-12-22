@@ -10,4 +10,4 @@ Python Course I completed to summarize the foundations of Python. I used this [t
 ## Content ##
 | Course | Description |
 | :----- | :---------- |
-| [Setup & Hello World]() |  |
+| [Setup, Hello World, Drawing a Shape]() | Making the setup, first print statement, and explaining the print statement |
