@@ -8,5 +8,6 @@ Course I completed to get used to asynchronous Javascript programming. I used th
 
 | Course | Content |
 | :----- | :------ |
-| [Introduction]() | Introduction into the topic |
-| [Synchronous vs. Asynchronosus]() | Understanding the concept of syncronous and asynchronous Javascript |
+| [Introduction](https://github.com/dastal/Tutorials/blob/main/Asynchronous_Javascript_Course/docs/indroduction.md) | Introduction into the topic |
+| [Synchronous vs. Asynchronosus](https://github.com/dastal/Tutorials/blob/main/Asynchronous_Javascript_Course/docs/synchronous_vs_asynchronous.md) | Understanding the concept of syncronous and asynchronous Javascript |
+| [Callback](https://github.com/dastal/Tutorials/blob/main/Asynchronous_Javascript_Course/docs/callback.md) | Introducing the concetp of callbacks |
