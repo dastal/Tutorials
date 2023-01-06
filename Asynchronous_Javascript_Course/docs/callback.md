@@ -133,6 +133,11 @@ Then we start the production by using the setTimeout function and callbacks. It 
 
 ![Sequence](images/sequence1.png)
 
-But as we regard the code, we notice that we use many nested setTimeouts, which is also called a callback hell.
-
 ## Callback Hell ##
+As we regard the code, we notice that we use many nested setTimeouts, which is also called a callback hell.
+
+![Callback Hell](images/callback_hell.png)
+
+To avoid the callback hell, we use promises, which have the format of a list of bulletpoints that is executed point after point.
+
+![Promises Format](images/promises_format.png)
