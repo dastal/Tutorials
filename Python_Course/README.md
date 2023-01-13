@@ -10,4 +10,8 @@ Python Course I completed to summarize the foundations of Python. I used this [t
 ## Content ##
 | Course | Description |
 | :----- | :---------- |
-| [Setup, Hello World, Drawing a Shape]() | Making the setup, first print statement, and explaining the print statement |
+| [Setup, Hello World, Drawing a Shape](https://github.com/dastal/Tutorials/blob/main/Python_Course/docs/1_Setup_Hello_World_Shape.md) | Making the setup, first print statement, and explaining the print statement |
+| [Variables & Data Types](https://github.com/dastal/Tutorials/blob/main/Python_Course/docs/2_Variables_Data_Types.md) | Learning the most important variable types in Python |
+| [Working with Strings](https://github.com/dastal/Tutorials/blob/main/Python_Course/docs/3_Working_With_String.md) | Getting to know the most important operations that can be done with strings |
+| [Working with Numbers](https://github.com/dastal/Tutorials/blob/main/Python_Course/docs/4_Working_With_Numbers.md) | Introduction into the different types of numbers in Python |
+| [Getting Input from Users](https://github.com/dastal/Tutorials/blob/main/Python_Course/docs/5_Getting_Input_from_Users.md) | How to get input from users |
