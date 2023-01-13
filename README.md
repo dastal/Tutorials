@@ -5,7 +5,7 @@ Following the list with the links and short descriptions of all the repositories
 | Link | Description |
 |:-----|:------------|
 | [ASP.NET Core](https://github.com/dastal/Tutorials/tree/main/ASP_dotNET_Core_Tutorial) | Basic ASP .NET Core Tutorial using razor pages |
-| [Asynchronous Javascript](https://github.com/dastal/Tutorials/blob/main/Asynchronous_Javascript_Course/docs/async_await.md) | Getting to know the concept of asynchronous Javascript programming |
+| [Asynchronous Javascript](https://github.com/dastal/Tutorials/tree/main/Asynchronous_Javascript_Course) | Getting to know the concept of asynchronous Javascript programming |
 | [Bash](https://github.com/dastal/Tutorials/tree/main/Bash_Scripting_Course) | Bash Scripting Course |
 | [C#](https://github.com/dastal/Tutorials/tree/main/C_Sharp_Course) | Course that summarizes the most important properties of C# |
 | [C++](https://github.com/dastal/Tutorials/tree/main/Cpp_Course) | Course that summarizes the most important properties of C++ |
