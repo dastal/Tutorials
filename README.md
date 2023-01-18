@@ -10,6 +10,7 @@ Following the list with the links and short descriptions of all the repositories
 | [C#](https://github.com/dastal/Tutorials/tree/main/C_Sharp_Course) | Course that summarizes the most important properties of C# |
 | [C++](https://github.com/dastal/Tutorials/tree/main/Cpp_Course) | Course that summarizes the most important properties of C++ |
 | [Docker](https://github.com/dastal/Tutorials/tree/main/Docker_Course) | Course that shows how to properly build a project using Docker |
+| [Git](https://github.com/dastal/Tutorials/tree/main/Git) | Short repetition about Git and GitHub |
 | [HTML & CSS](https://github.com/dastal/Tutorials/tree/main/html5_css_refresher) | Course that I completed to refresh my HTML and CSS skills |
 | [Java](https://github.com/dastal/Tutorials/tree/main/Java_Course) | Course that summarizes the most important properties of Java |
 | [JavaScript](https://github.com/dastal/Tutorials/tree/main/Javascript_Refresher) | Course that I completed to refresh my JavaScript skills |
