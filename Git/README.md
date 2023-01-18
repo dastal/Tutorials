@@ -11,6 +11,6 @@ The following table contains all the topics that were processed during the cours
 
 | Topic | Description |
 | :---- | :---------- |
-| [Introduction]() | Full introduction into Git |
-| [GitHub]() | Full introduction into GitHub |
-| [Git Branching]() | Everything about branching in Git |
+| [Introduction](https://github.com/dastal/Tutorials/blob/main/Git/docs/Introduction.md) | Full introduction into Git |
+| [GitHub](https://github.com/dastal/Tutorials/blob/main/Git/docs/GitHub.md) | Full introduction into GitHub |
+| [Git Branching](https://github.com/dastal/Tutorials/blob/main/Git/docs/Git_Branching.md) | Everything about branching in Git |
