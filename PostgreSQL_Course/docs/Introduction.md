@@ -37,7 +37,7 @@ PostreSQL is:
 - Modern
 - Open Source
 
-## GUI Clients vs. Terminal/CMS Clients##
+## GUI Clients vs. Terminal/CMS Clients ##
 Now that we have up and running, we need a way to to it. Our computer is serving as a computer server, i.e. a database server, where basically everyone can connect to it, create and edit contents and use all the functionality provided by the database. 
 
 Different way to connect to the database:
