@@ -1,3 +1,5 @@
+# Introduction #
+
 PostgreSQL has its own query language.
 
 ## What is a Database? ##
