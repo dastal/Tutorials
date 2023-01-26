@@ -13,3 +13,4 @@ of great features.
 ## Content ##
 | Topic | Description |
 | :---- | :---------- |
+| [Introduction](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Introduction.md) | Full introduction, defining the term relational database until setup |
