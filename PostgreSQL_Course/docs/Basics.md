@@ -91,4 +91,46 @@ Checking the table by entering `\d person` shows us the whole new table:
 So as we can see, the attributes were inserted with all the contraints that we defined.
 
 ## Insert Into ##
-(55:57)
+So far we have the database called `test`, with one table called `person` that has the following attributes:
+- `id`
+- `first_name`
+- `last_name`
+- `gender`
+- `date_of_birth`
+- `email`
+
+Now we want to insert the data of a new person into that table:
+- 1
+- Anne
+- Smith
+- FEMALE
+- 09/01/88
+
+To insert this data, we have to enter the follwing command:
+
+```sql
+INSERT INTO person (
+	first_name,
+	last_name,
+	gender,
+	date_of_birth)
+VALUES ('Anne', 'Smith', 'FEMALE', DATE '1988-01-09');
+```
+
+First we need to tell into wich table we want to insert the data, then we have to specify the columns where we actually want to insert the data and finally we have to hand in the values that we want to insert. The values match the data types of the attributes of the table. So in this case `[String, String, String, Date]`. Have a look at the special treatment of the date. Remember that we do not have to hand in a email address since this column is no mandatory.
+
+Now we want to insert a second person into the table, this time with a email address:
+
+```sql
+INSERT INTO person (
+	first_name,
+	last_name,
+	gender,
+	date_of_birth,
+	email)
+VALUES ('Jake', 'Jones', 'MALE', DATE '1990-01-10', 'jake@jones.com');
+```
+
+As we have seen, we did not specify the id of both persons. This is because the type `BIGSERIAL` does an auto increment for us.
+
+## Generate 1000 Lines with Mockaroo ##
