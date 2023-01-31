@@ -133,4 +133,37 @@ VALUES ('Jake', 'Jones', 'MALE', DATE '1990-01-10', 'jake@jones.com');
 
 As we have seen, we did not specify the id of both persons. This is because the type `BIGSERIAL` does an auto increment for us.
 
+With the command `SELECT * FROM person;` we can have a look at how the table looks like now that we have inserted the first two entries:
+
+![Table with two people](images/table_two_people.png)
+
 ## Generate 1000 Lines with Mockaroo ##
+In this part we are going to insert 1000 more persons into the table. Further we are going to insert another column called "Country of Birth". Since 1000 persons more would be very time consiming to insert them manually, we are going to use [Mockaroo](https://mockaroo.com/), which is a data generator, where we can define every attribute that we have in our table and choose how many entries that we want to have. Then, Mockarooo creates a SQL file. Following a short preview.
+
+![Preview](images/preview.png)
+
+To open this SQL file, we use VS Code. Here we can see the content of the whole file. Each line already contains the insert command that is needed to insert the data into the database. But insteat of copying all the lines and simply paste them into the terminal, we use a smarter way. 
+
+First we delete the table person, since we do not want the old entries in our database and moreover we do not have the column "country_of_birth" implemented yet. Since we are going to learn more about changing cells in a table later, it makes sense to delet it.
+
+Then we use the following command
+
+```
+\i `<path to the person.sql file>`
+```
+
+In Winsows, make sure that you use the quotation marks and that the path starts with `C:/`.
+
+Now we have inserted the data into the database. With the following command we can now display what we have inserted into the databse:
+
+```sql
+SELECT * FROM person;
+```
+
+We notice that we have all the data inserted, but we missed the id of the person. Therefore we head back to VS Code and insert:
+
+```sql
+id BIGSERIAL NOT NULL PRIMARY KEY,
+```
+
+Additionally, since we see that the attribute gender sometimes has in the list created by Mockaroo a length longer than 7, so we increase the `VARCHAR` length to 20.
