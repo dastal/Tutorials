@@ -14,3 +14,5 @@ of great features.
 | Topic | Description |
 | :---- | :---------- |
 | [Introduction](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Introduction.md) | Full introduction, defining the term relational database until setup |
+| [Basics](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Basics.md) | Creatinf databases, tables and inserting data into the tables |
+| [Retrieving Data from Databases](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Retrieve_Data_from_the_Database.md) | Different ways to retrieve data from the database |
