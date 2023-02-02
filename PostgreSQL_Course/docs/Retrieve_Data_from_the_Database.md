@@ -71,4 +71,108 @@ SELECT * FROM person WHERE gender = 'Female' AND country_of_birth = 'Poland' OR 
 ```
 
 ## Comparison Operators ##
-(1:25:30)
+Operators allow us to do:
+- arithmetic operations
+- comparisons (`=`, `>`, `>=`, `<`, `<=`, `<>`)
+- bitwise operations
+- logical operations
+
+So if we use the following comparison operation:
+
+```sql
+SELECT 1 = 1;
+```
+
+We receive the follwing result:
+
+<img src="images/one_equal_one.png" alt="one = one" width="200"/>
+
+This comparison means that we are comparing if 1 = 1. Since this is true, postgres answers with t (true). In general, comparison operations return true or false. In this example, we used numbers, but these comparisons can applied to many other types of data.
+
+## Limit, Offset & Fetch ##
+Let us assume that we only want to select the first 10 entries of the table. Then we can use:
+
+```sql
+SELECT * FROM person LIMIT 10;
+```
+
+The `LIMIT` statement tells PostgreSQL to only select the first 10 entries of the table.
+
+With the `OFFSET` statement we can say how many entries we want to skip from the start, so we use the following comment to skip the first 10 entries of the table:
+
+```sql
+SELECT * FROM person OFFSET 10;
+```
+
+There is also another keyword that performs the same operations like `LIMIT` which is called `FETCH`, which is the official definition. So instead of the `LIMIT` command we can also use:
+
+```sql
+SELECT * FROM person FETCH FIRST 10 ROW ONLY;
+```
+
+and we recieve the same result.
+
+## In ##
+Let us assume that we want to select every person from Switzerland, France and Italy out of our table. Then we could write the command:
+
+```sql
+SELECT * FROM person WHERE country_of_birth = 'Switzerland' OR country_of_birth = 'France' OR country_of_birth = 'Italy';
+```
+
+But this is a lot of code and we are duplicating a lot of it. Instad we can use the `IN` keyword:
+
+```sql
+SELECT * FROM person WHERE country_of_birth IN ('Switzerland', 'France', 'Italy');
+```
+
+This makes it easy to select even more countries.
+
+## Between ##
+The `BETWEEN` keyword is used to select data inside of a range. Let us assume that out of our table we want to select everyone that was born between 2000 and 2015. Then we can use the following command:
+
+```sql
+SELECT * FROM person WHERE date_of_birth BETWEEN DATE '2000-01-01' AND '2015-01-01';
+```
+
+## Like and iLike ##
+The `LIKE` keyword is used to match text values against a pattern using wildcards. So if we want to find every single email address that ends in ".com", we can use the follwoing command:
+
+```sql
+SELECT * FROM person WHERE email LIKE '%.com';
+```
+
+The wildcard here is the `%` sign, which means that everything can be in the string before this sign, as long as it ends with this sequence. 
+
+Let us assume we want to find a sequence that is inside of a string. Here we can use:
+
+```sql
+SELECT * FROM person WHERE email LIKE '%google%';
+```
+
+If we want the wildcard to have a certain length, we can use the `_`:
+
+```sql
+SELECT * FROM person WHERE email LIKE '________@%';
+```
+
+If for example we are not sure if a word is written with a capital letter or not, instead of trying to make a query with two different conditions (`LIKE p% OR P%`), we can use the keyword `ILIKE`. This keyword simply igonores uppercase or lowercase:
+
+```sql
+SELECT * FROM person WHERE country_of_birth ILIKE 'p%';
+```
+
+## Group By ##
+This keyword allows us to group data based on a column. Let us assume that we want to group our data based on how many people that we have for each country that we have. Therefore we can use the following command:
+
+```sql
+SELECT country_of_birth, COUNT(*) FROM person GROUP BY country_of_birth ORDER BY country_of_birth;
+```
+
+This kind of command is very powerful for using statistics.
+
+## Group By Having ##
+This keyword allows us to perform an extra filtering after we perform the aggregation. For example when we want to select all the countries that have at least five people. This can be done with the `BY HAVING` keyword:
+
+```sql
+SELECT country_of_birth, COUNT(*) FROM person GROUP BY country_of_birth HAVING COUNT(*) > 5 ORDER BY country_of_birth;
+```
