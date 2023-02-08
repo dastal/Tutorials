@@ -13,6 +13,10 @@ of great features.
 ## Content ##
 | Topic | Description |
 | :---- | :---------- |
-| [Introduction](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Introduction.md) | Full introduction, defining the term relational database until setup |
+| [Introduction](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Introduction.md) | Full introduction, defining the term relational database until setup |trea 
 | [Basics](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Basics.md) | Creating databases, tables and inserting data into the tables |
 | [Retrieving Data from Databases](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Retrieve_Data_from_the_Database.md) | Different ways to retrieve data from the database |
+| [Arithmetic Functions](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Arithmetic_Functions.md) | Learning the different arithmetic functions that ar applicable with PostgreSQL |
+| [Handling Null Values](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Handling_Null_Values.md) | How to treat null values |
+| [Dates]() | Usage of dates and timestamps |
+
