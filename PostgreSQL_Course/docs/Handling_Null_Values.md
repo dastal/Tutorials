@@ -38,6 +38,3 @@ SELECT 10 / NULLIF(2, 0);
 ```
 
 Then we receive 5 as the result. 
-
-## Timestamps and Dates ##
-(20:20:23)
