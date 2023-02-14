@@ -18,5 +18,5 @@ of great features.
 | [Retrieving Data from Databases](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Retrieve_Data_from_the_Database.md) | Different ways to retrieve data from the database |
 | [Arithmetic Functions](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Arithmetic_Functions.md) | Learning the different arithmetic functions that ar applicable with PostgreSQL |
 | [Handling Null Values](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Handling_Null_Values.md) | How to treat null values |
-| [Dates]() | Usage of dates and timestamps |
-
+| [Dates](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Dates.md) | Usage of dates and timestamps |
+| [Primary Keys](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Primary_Keys.md) | Understanding primary keys and unique constraints |
