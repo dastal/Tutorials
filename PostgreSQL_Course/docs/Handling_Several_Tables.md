@@ -116,6 +116,9 @@ SELECT * FROM person LEFT JOIN car ON car.id = person.car_id WHERE car.* IS NULL
 ```
 
 ## Deleting Records with Foreign Keys ##
-If we have a relation between two records in two different tables, it becomes impossible to simply delete them. 
+If we have a relation between two records in two different tables, it becomes impossible to simply delete them.  Because of the foreign key constraint, it is not simply possible to delete such a record. So if we want to delete a record that contains a relation to another table, we first need to remove the constraint to be able to delete the record.  We have two options:
 
-(3:40:54) already inserted car and person, created relation
+- delete the record that is related to the record to be deleted (if it has no relation to another table)
+- update the relation attribute in the record to be deleted to null
+
+There is another method to delete records that have relations to other records, called Cascade. Cascade removes every record that has to be deleted without paying attention to relations. But this is bad practise, since we always want to have the control about what data is deleted.
