@@ -1,3 +1,4 @@
+# Dates #
 
 ## Timestamps and Dates ##
 Often when we store data in our tables, we also use timestamps, for example to verify when this record was created or updated or for birthday dates etc. There is one funtion that gives us the actual date:
