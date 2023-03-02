@@ -1,3 +1,4 @@
+# Arithmetic Functions #
 
 ## Adding New Table and Data using Mockaroo ##
 With Mockaroo, we create a new table called "car.sql" which has the following columns:
