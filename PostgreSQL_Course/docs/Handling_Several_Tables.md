@@ -1,3 +1,5 @@
+# Handling of Several Tables #
+
 ## Foreign Keys, Joins & Relationships ##
 Until now, we have two different tables: person and car. Now we want to have a query that returns a combination of both the tables for a single person, i.e. a query where we select the person as well as the car. The naïve approach for this is to have a table where we have all the information of a single person, but in this way we would have huge tables. Since PostgreSQL is relational, we can have many single tables that can be connected to each others using "Foreign Keys". Therefore we need to have constraints:
 
