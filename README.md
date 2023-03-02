@@ -21,5 +21,5 @@ Following the list with the links and short descriptions of all the repositories
 | [PostgreSQL](https://github.com/dastal/Tutorials/tree/main/PostgreSQL_Course) | Course to refreshs my SQL knowledge uisng PostgreSQL |
 | [Ruby](https://github.com/dastal/Tutorials/tree/main/Ruby_Course) | Course that summarizes the most important properties of Ruby |
 | [SKLearn](https://github.com/dastal/Tutorials/tree/main/SKlearn_Tutorial) | Introductory Course into Machine Learning using SKLearn |
-| [Spark](https://github.com/dastal/Tutorials/tree/main/Spark_Course) | Course that shows how to use Spark in comination with ML |
+| [Spark](https://github.com/dastal/Tutorials/tree/main/Spark_Course) | Course that shows how to use Spark in combination with ML |
 | [Websocket](https://github.com/dastal/Tutorials/tree/main/Websocket_Tutorial) | Short Tutorial on how to use Werbsockets with node.js |
