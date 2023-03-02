@@ -18,6 +18,7 @@ Following the list with the links and short descriptions of all the repositories
 | [MongoDB](https://github.com/dastal/Tutorials/blob/main/Mongo_DB_Course) | Course to get used to MongoDB |
 | [OpenGL](https://github.com/dastal/Tutorials/tree/main/Cpp_OpenGL_Course) | C++ Open GL course to get used to open GL |
 | [PHP](https://github.com/dastal/Tutorials/tree/main/php_Course) | Course that summarizes the most important properties of PHP |
+| [PostgreSQL](https://github.com/dastal/Tutorials/tree/main/PostgreSQL_Course) | Course to refreshs my SQL knowledge uisng PostgreSQL |
 | [Ruby](https://github.com/dastal/Tutorials/tree/main/Ruby_Course) | Course that summarizes the most important properties of Ruby |
 | [SKLearn](https://github.com/dastal/Tutorials/tree/main/SKlearn_Tutorial) | Introductory Course into Machine Learning using SKLearn |
 | [Spark](https://github.com/dastal/Tutorials/tree/main/Spark_Course) | Course that shows how to use Spark in comination with ML |
