@@ -20,3 +20,6 @@ of great features.
 | [Handling Null Values](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Handling_Null_Values.md) | How to treat null values |
 | [Dates](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Dates.md) | Usage of dates and timestamps |
 | [Primary Keys](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Primary_Keys.md) | Understanding primary keys and unique constraints |
+| [Editing Data](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Editing_Data.md) | All about updating and deleting data |
+| [Conflicts](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Conflicts.md) | Handling conflicts in tables |
+| []() |
