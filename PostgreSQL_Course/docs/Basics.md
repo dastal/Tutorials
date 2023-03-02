@@ -1,3 +1,4 @@
+# Basics #
 
 ## How to Create a Database ##
 First of all, to get help, just type the command `help` into the terminal. Then, there are the most important commands listed. With `\?` we can get even more help.  To get a list of all the databases that we created yet, type in the command `\l`. 
