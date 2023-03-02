@@ -1,4 +1,6 @@
-## On Conflict Do Nothiing ##
+# Conflicts #
+
+## On Conflict Do Nothing ##
 Here we going to learn how to handle duplicate key errors or exceptions. So if for example we want to insert a new person that has `id=116`, then we receive an error which tells us that the ID already belongs to someone (with the person primary key). When we want to handle this conflic we can use the `ON CONFLICT` keyword, as follows:
 
 ```sql
