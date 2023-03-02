@@ -1,3 +1,5 @@
+# Editing Data #
+
 ## Delete Records ##
 As we have seen in the last few sections, primary keys can uniquely identify a record. So when we want to delete a record from a table, we should, in most cases, use the primary key. If we want to delete the record with the `id = 1`, we can use the following command:
 
