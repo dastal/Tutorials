@@ -1,4 +1,4 @@
-## Handling of Null Values ##
+# Handling of Null Values #
 
 ## Coalescence ##
 The `COALESCE` keyword is used to handle nulls. It allows us to have a default value in case the first one is not present. If we hand in an array of values and there are many null values into it, `COALESCE` gives us backt the very first value that is not null. So let us have a look at the following commands
