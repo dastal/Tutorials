@@ -22,4 +22,5 @@ of great features.
 | [Primary Keys](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Primary_Keys.md) | Understanding primary keys and unique constraints |
 | [Editing Data](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Editing_Data.md) | All about updating and deleting data |
 | [Conflicts](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Conflicts.md) | Handling conflicts in tables |
-| []() |
+| [Handling Several Rables](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Handling_Several_Tables.md) | Introduction into foreign keys and joins of tables |
+| [Further Knowledge](https://github.com/dastal/Tutorials/blob/main/PostgreSQL_Course/docs/Further_Knowledge_and%20Conclusion.md) | Adding data to CSV files, Serials, Extensions, UUIDs |
