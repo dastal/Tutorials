@@ -27,3 +27,5 @@ The following table lists the content of the course:
 
 | Topic | Description |
 | :----- | :------------- |
+| [Fundamentals ]() | Getting to know the fundamentals of dart programming |
+| [Data Types]() | Introducing the data types of Dart |
