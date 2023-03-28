@@ -17,3 +17,9 @@ Dart tutorial that I completed to get used to the Dart programming language. I u
 | Topic | Description |
 | :------ | :----------- |
 | [Introduction]() | Getting started with the basics of Dart |
+| [Variables]() | Introduction into the usage of variables |
+| [Data Types]() | Presentation of the most important data types in Dart |
+| [Strings]() | Getting to know how to work with strings |
+| [Numbers]()  | Introduction into the different number types and how to work with them|
+
+
