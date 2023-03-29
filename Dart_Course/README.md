@@ -21,5 +21,7 @@ Dart tutorial that I completed to get used to the Dart programming language. I u
 | [Data Types]() | Presentation of the most important data types in Dart |
 | [Strings]() | Getting to know how to work with strings |
 | [Numbers]()  | Introduction into the different number types and how to work with them|
+| [Booleans]() | Short presentation of booleans |
+
 
 
