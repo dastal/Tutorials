@@ -6,7 +6,7 @@ Dart tutorial that I completed to get used to the Dart programming language. I u
 - [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC)
 - Alternative: [Dart Pad](https://dartpad.dev/?)
 
-## Coding and Runnding Dart Programs using IntelliJ ##
+## Coding and Running Dart Programs using IntelliJ ##
 - Install Dart using Chocolately
 - Add Path to `/bin` folder to PATH variables
 - Download Dart Plug-In on IntelliJ
@@ -22,6 +22,4 @@ Dart tutorial that I completed to get used to the Dart programming language. I u
 | [Strings]() | Getting to know how to work with strings |
 | [Numbers]()  | Introduction into the different number types and how to work with them|
 | [Booleans]() | Short presentation of booleans |
-
-
-
+| [Getting User Input]() |  |
