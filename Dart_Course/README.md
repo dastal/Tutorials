@@ -1,4 +1,4 @@
-# Dart Course#
+# Dart Course #
 Dart tutorial that I completed to get used to the Dart programming language. I used this [Tutorial](https://www.youtube.com/watch?v=5xlVP04905w) for the course.
 
 ## Settings ##
@@ -22,4 +22,7 @@ Dart tutorial that I completed to get used to the Dart programming language. I u
 | [Strings]() | Getting to know how to work with strings |
 | [Numbers]()  | Introduction into the different number types and how to work with them|
 | [Booleans]() | Short presentation of booleans |
-| [Getting User Input]() |  |
+| [Getting User Input]() | Explanation of how to get input from the user via the command line |
+| [Building a basic Calculator]() | Example for getting input, process it and create output |
+| [Mad Libs]() | Example for getting input, process it and create output |
+| [Lists]() |  |
