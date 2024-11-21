@@ -2,16 +2,68 @@ import 'dart:math';
 import 'dart:io';
 
 void main () {
-  print("Enter a color: ");
-  String? color = stdin.readLineSync();
+  List<int> primeNumbers = [1, 2, 3, 5, 7, 11, 14, 15];
+  // index:                   0  1  2  3  4  5   6   7
 
-  print("Enter a plural noun: ");
-  String? pluralNoun = stdin.readLineSync();
+  // Other Examples:
+  List<String> germanNames = ['Wolfgang', 'Horst', 'Dieter'];
+  List<bool> correct = [true, false, true, true, false];
 
-  print("Enter a celebrity: ");
-  String? celebrity = stdin.readLineSync();
+  print(
+      primeNumbers
+  );
 
-  print("Roses are ${color}");
-  print("${pluralNoun} are blue");
-  print("I love ${celebrity}");
+  print(
+    primeNumbers.length
+  );
+
+  print(
+    primeNumbers[0]
+  );
+
+  primeNumbers[6] = 13;
+
+  print(
+    primeNumbers
+  );
+
+  print(
+      primeNumbers[0] + primeNumbers[1]
+  );
+
+  primeNumbers.add(17);
+
+  print(
+      primeNumbers
+  );
+
+  primeNumbers.remove(15);
+
+  print(
+      primeNumbers
+  );
+
+  print(
+      primeNumbers.indexOf(11)
+  );
+
+  print(
+      primeNumbers.indexOf(19)
+  );
+
+  print(
+      primeNumbers.contains(11)
+  );
+
+  print(
+      primeNumbers.contains(19)
+  );
+
+  print(
+      germanNames
+  );
+
+  print(
+      correct
+  );
 }
