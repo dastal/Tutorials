@@ -1,6 +1,17 @@
 import 'dart:math';
 import 'dart:io';
 
-void main () {
+void drawTriangle() {
+  print("   /|");
+  print("  / |");
+  print(" /  |");
+  print("/___|");
+}
 
+void main () {
+  drawTriangle();
+  drawTriangle();
+  drawTriangle();
+  drawTriangle();
+  drawTriangle();
 }

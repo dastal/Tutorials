@@ -25,4 +25,6 @@ Dart tutorial that I completed to get used to the Dart programming language. I u
 | [Getting User Input]() | Explanation of how to get input from the user via the command line |
 | [Building a basic Calculator]() | Example for getting input, process it and create output |
 | [Mad Libs]() | Example for getting input, process it and create output |
-| [Lists]() |  |
+| [Lists]() | Getting to know the concept of lists |
+| [Functions]() | Define simple functions with no input and no output |
+| [Parameters and Arguments]() |  |
